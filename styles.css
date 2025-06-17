@@ -13,6 +13,12 @@ p {
     text-align: center;
 }
 
+.sisu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .sisu p {
     padding-left: var(--laius);
     padding-right: var(--laius);
